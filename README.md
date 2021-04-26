@@ -1,4 +1,4 @@
-## SIGIR'21 BK-VAE:Bayesian Critiquing with Keyphrase Activation Vectors for VAE-based Recommender Systems
+## SIGIR'21 Bayesian Critiquing with Keyphrase Activation Vectors for VAE-based Recommender Systems
 
 Authors: Hojin Yang, Tianshu Shen, [Scott Sanner](https://d3m.mie.utoronto.ca/)
 
