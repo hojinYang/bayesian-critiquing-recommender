@@ -2,7 +2,7 @@
 
 Authors: Hojin Yang, Tianshu Shen, Scott Sanner
 
-- Code will be released shorttly. 
+- Our source code for tihs work will be released shortly. 
 
 ## Citation
 
