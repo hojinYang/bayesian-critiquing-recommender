@@ -2,7 +2,7 @@
 
 Authors: Hojin Yang, Tianshu Shen, [Scott Sanner](https://d3m.mie.utoronto.ca/)
 
-- Our source code for tihs work will be released shortly. 
+- Our source code for this paper will be released shortly. 
 
 ## Citation
 
