@@ -2,7 +2,6 @@
 
 Authors: Hojin Yang, Tianshu Shen, [Scott Sanner](https://d3m.mie.utoronto.ca/)
 
-- Our source code for this paper will be released shortly. 
 
 ## Citation
 
@@ -16,3 +15,5 @@ If you are interested in building up your research on this work, please cite:
   address   = {Online},
 }
 ```
+
+run simulate.py or simulate_yelpy.py
